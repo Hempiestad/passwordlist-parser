@@ -1,3 +1,4 @@
+#Author Brian Hempstead script to parse graykey password list to a one work per line list of passwords, still needs manual clean up for tokens.
 def remove_duplicates_from_file(input_file, output_file):
     try:
         # Read the contents of the input file
